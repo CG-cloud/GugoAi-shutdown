@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to bottom, #000428, #004e92);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    color: #ffffff;
+}
+
+.container {
+    text-align: center;
+}
+
+.logo {
+    margin-bottom: 30px;
+}
+
+.ai-logo {
+    font-size: 80px;
+    font-weight: bold;
+    color: #00ffae;
+}
+
+.main-text {
+    font-size: 36px;
+    font-weight: 300;
+    text-shadow: 0 0 10px #00ffae;
+}
+
+.secondary-text {
+    font-size: 20px;
+    margin-top: 15px;
+    color: #cccccc;
+}
